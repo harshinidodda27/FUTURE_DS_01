@@ -29,10 +29,8 @@ Key Tasks Performed
 - Created visualizations to represent analytical findings effectively.
 - Interpreted results to support business decision-making.
 
-Outcomes
-
-This project enhanced my understanding of:
-
+  Outcomes
+  Skills Demonstrated:
 - Data Analysis
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Preprocessing
